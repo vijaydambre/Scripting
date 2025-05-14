@@ -6,3 +6,4 @@ echo "How are you?"git
 echo " i m fine "
 echo " tell me about you "
 echo "i love my wife"
+echo "add all"
